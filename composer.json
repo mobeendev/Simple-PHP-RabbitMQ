@@ -1,0 +1,6 @@
+{
+  "require": {
+    	"facebook/php-sdk": "3.2.*",
+    "php-amqplib/php-amqplib": "^2.8"
+    }
+}
